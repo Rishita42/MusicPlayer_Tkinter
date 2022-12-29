@@ -47,5 +47,5 @@
 - #### ***_Mutagen_***
 
 ---
-### <p align="center"> ***Made By Rishita***</p>
+### <p align="center"> ***Made By Rishita Ghosh***</p>
 
